@@ -1,5 +1,5 @@
 # Gust Blockchain 🌬️
-
+## UPDATE
 > Making blockchain accessible to everyone through email-based transactions and gasless operations.
 
 [![Project Status](https://img.shields.io/badge/status-in_development-yellow.svg)]()
